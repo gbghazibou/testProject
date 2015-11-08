@@ -1,0 +1,13 @@
+input.make-space {
+	margin-bottom: 10px;
+}
+
+.navbar-inverse {
+	border-radius: 0;
+}
+
+.message {
+  position: fixed;
+  right: 0;
+  top:60px;
+}
