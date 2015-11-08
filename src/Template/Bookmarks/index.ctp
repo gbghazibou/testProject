@@ -1,15 +1,30 @@
-<nav class="large-3 medium-4 columns" id="actions-sidebar">
-    <ul class="side-nav">
-        <li class="heading"><?= __('Actions') ?></li>
+
+<div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                        <?= $this->fetch('title') ?>
+                    </a>
+                <li class="heading"><?= __('Actions') ?></li>
         <li><?= $this->Html->link(__('New Bookmark'), ['action' => 'add']) ?></li>
         <li><?= $this->Html->link(__('List Users'), ['controller' => 'Users', 'action' => 'index']) ?></li>
         <li><?= $this->Html->link(__('New User'), ['controller' => 'Users', 'action' => 'add']) ?></li>
         <li><?= $this->Html->link(__('List Tags'), ['controller' => 'Tags', 'action' => 'index']) ?></li>
         <li><?= $this->Html->link(__('New Tag'), ['controller' => 'Tags', 'action' => 'add']) ?></li>
-    </ul>
-</nav>
-<div class="bookmarks index large-9 medium-8 columns content">
-    <h3><?= __('Bookmarks') ?></h3>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        
+                        <h3><?= __('Bookmarks') ?></h3>
     <table class="table table-hover" cellpadding="0" cellspacing="0">
         <thead>
             <tr>
@@ -46,4 +61,13 @@
         </ul>
         <p><?= $this->Paginator->counter() ?></p>
     </div>
-</div>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+    </div>
+    <!-- /#wrapper -->
