@@ -1,16 +1,34 @@
-<nav class="large-3 medium-4 columns" id="actions-sidebar">
-    <ul class="side-nav">
-        <li class="heading"><?= __('Actions') ?></li>
+
+<div id="wrapper">
+
+    <!-- Sidebar -->
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li class="sidebar-brand">
+                <a href="#">
+                    <?= $this->fetch('title') ?>
+                </a>
+                <li class="heading"><?= __('Actions') ?></li>
         <li><?= $this->Html->link(__('Edit User'), ['action' => 'edit', $user->id]) ?> </li>
         <li><?= $this->Form->postLink(__('Delete User'), ['action' => 'delete', $user->id], ['confirm' => __('Are you sure you want to delete # {0}?', $user->id)]) ?> </li>
         <li><?= $this->Html->link(__('List Users'), ['action' => 'index']) ?> </li>
         <li><?= $this->Html->link(__('New User'), ['action' => 'add']) ?> </li>
         <li><?= $this->Html->link(__('List Bookmarks'), ['controller' => 'Bookmarks', 'action' => 'index']) ?> </li>
         <li><?= $this->Html->link(__('New Bookmark'), ['controller' => 'Bookmarks', 'action' => 'add']) ?> </li>
-    </ul>
-</nav>
-<div class="users view large-9 medium-8 columns content">
-    <h3><?= h($user->id) ?></h3>
+        </ul>
+    </div>
+    <!-- /#sidebar-wrapper -->
+
+
+
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12">
+
+
+                   <h3><?= h($user->id) ?></h3>
     <table class="vertical-table">
         <tr>
             <th><?= __('Email') ?></th>
@@ -69,4 +87,18 @@
         </table>
     <?php endif; ?>
     </div>
+
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- /#page-content-wrapper -->
+
 </div>
+<!-- /#wrapper -->
+
+
+
+
+
