@@ -1,0 +1,508 @@
+2015-10-30 17:46:22 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\tags.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\tags.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-30 17:52:40 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\tags.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\tags.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-30 17:52:40 Notice: Notice (8): Undefined variable: bookmarks in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\tags.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\tags.ctp, line 7
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-30 17:53:07 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\tags.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\tags.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-30 17:53:07 Notice: Notice (8): Undefined variable: bookmarks in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\tags.ctp, line 7]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\tags.ctp, line 7
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 09:31:33 Notice: Notice (8): Undefined variable: users in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\edit.ctp, line 22]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\edit.ctp, line 22
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 09:33:35 Notice: Notice (8): Undefined variable: users in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\edit.ctp, line 22]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\edit.ctp, line 22
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 09:33:46 Notice: Notice (8): Undefined variable: users in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\edit.ctp, line 22]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\edit.ctp, line 22
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 09:38:17 Notice: Notice (8): Undefined variable: users in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\edit.ctp, line 22]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\edit.ctp, line 22
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:36:13 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Table\BookmarksTable.php, line 121]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Table\BookmarksTable::_buildTags() - APP/Model\Table\BookmarksTable.php, line 121
+App\Model\Table\BookmarksTable::beforeSave() - APP/Model\Table\BookmarksTable.php, line 96
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\ORM\Table::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\ORM\Table::_processSave() - CORE\src\ORM\Table.php, line 1425
+Cake\ORM\Table::Cake\ORM\{closure}() - CORE\src\ORM\Table.php, line 1377
+Cake\Database\Connection::transactional() - CORE\src\Database\Connection.php, line 557
+Cake\ORM\Table::save() - CORE\src\ORM\Table.php, line 1378
+App\Controller\BookmarksController::edit() - APP/Controller\BookmarksController.php, line 82
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:36:13 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Table\BookmarksTable.php, line 121]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Table\BookmarksTable::_buildTags() - APP/Model\Table\BookmarksTable.php, line 121
+App\Model\Table\BookmarksTable::beforeSave() - APP/Model\Table\BookmarksTable.php, line 96
+Cake\Event\EventManager::_callListener() - CORE\src\Event\EventManager.php, line 389
+Cake\Event\EventManager::dispatch() - CORE\src\Event\EventManager.php, line 355
+Cake\ORM\Table::dispatchEvent() - CORE\src\Event\EventDispatcherTrait.php, line 78
+Cake\ORM\Table::_processSave() - CORE\src\ORM\Table.php, line 1425
+Cake\ORM\Table::Cake\ORM\{closure}() - CORE\src\ORM\Table.php, line 1377
+Cake\Database\Connection::transactional() - CORE\src\Database\Connection.php, line 557
+Cake\ORM\Table::save() - CORE\src\ORM\Table.php, line 1378
+App\Controller\BookmarksController::edit() - APP/Controller\BookmarksController.php, line 82
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\ORM\Entity::_nestedErrors() - CORE\src\Datasource\EntityTrait.php, line 729
+Cake\ORM\Entity::errors() - CORE\src\Datasource\EntityTrait.php, line 700
+Cake\View\Form\EntityContext::error() - CORE\src\View\Form\EntityContext.php, line 502
+Cake\View\Form\EntityContext::hasError() - CORE\src\View\Form\EntityContext.php, line 487
+Cake\View\Helper\FormHelper::error() - CORE\src\View\Helper\FormHelper.php, line 683
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1003
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\ORM\Entity::_nestedErrors() - CORE\src\Datasource\EntityTrait.php, line 729
+Cake\ORM\Entity::errors() - CORE\src\Datasource\EntityTrait.php, line 700
+Cake\View\Form\EntityContext::error() - CORE\src\View\Form\EntityContext.php, line 502
+Cake\View\Form\EntityContext::hasError() - CORE\src\View\Form\EntityContext.php, line 487
+Cake\View\Helper\FormHelper::error() - CORE\src\View\Helper\FormHelper.php, line 683
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1003
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\ORM\Entity::_nestedErrors() - CORE\src\Datasource\EntityTrait.php, line 729
+Cake\ORM\Entity::errors() - CORE\src\Datasource\EntityTrait.php, line 700
+Cake\View\Form\EntityContext::error() - CORE\src\View\Form\EntityContext.php, line 502
+Cake\View\Form\EntityContext::hasError() - CORE\src\View\Form\EntityContext.php, line 487
+Cake\View\Helper\FormHelper::error() - CORE\src\View\Helper\FormHelper.php, line 683
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1003
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\ORM\Entity::_nestedErrors() - CORE\src\Datasource\EntityTrait.php, line 729
+Cake\ORM\Entity::errors() - CORE\src\Datasource\EntityTrait.php, line 700
+Cake\View\Form\EntityContext::error() - CORE\src\View\Form\EntityContext.php, line 502
+Cake\View\Form\EntityContext::hasError() - CORE\src\View\Form\EntityContext.php, line 487
+Cake\View\Helper\FormHelper::error() - CORE\src\View\Helper\FormHelper.php, line 683
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1003
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\View\Form\EntityContext::val() - CORE\src\View\Form\EntityContext.php, line 223
+Cake\View\Helper\FormHelper::_initInputField() - CORE\src\View\Helper\FormHelper.php, line 2362
+Cake\View\Helper\FormHelper::__call() - CORE\src\View\Helper\FormHelper.php, line 1487
+Cake\View\Helper\FormHelper::text() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::_getInput() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1021
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\View\Form\EntityContext::val() - CORE\src\View\Form\EntityContext.php, line 223
+Cake\View\Helper\FormHelper::_initInputField() - CORE\src\View\Helper\FormHelper.php, line 2362
+Cake\View\Helper\FormHelper::__call() - CORE\src\View\Helper\FormHelper.php, line 1487
+Cake\View\Helper\FormHelper::text() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::_getInput() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1021
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\View\Form\EntityContext::val() - CORE\src\View\Form\EntityContext.php, line 223
+Cake\View\Helper\FormHelper::_initInputField() - CORE\src\View\Helper\FormHelper.php, line 2362
+Cake\View\Helper\FormHelper::__call() - CORE\src\View\Helper\FormHelper.php, line 1487
+Cake\View\Helper\FormHelper::text() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::_getInput() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1021
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\View\Form\EntityContext::val() - CORE\src\View\Form\EntityContext.php, line 223
+Cake\View\Helper\FormHelper::_initInputField() - CORE\src\View\Helper\FormHelper.php, line 2362
+Cake\View\Helper\FormHelper::__call() - CORE\src\View\Helper\FormHelper.php, line 1487
+Cake\View\Helper\FormHelper::text() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::_getInput() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1021
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\ORM\Entity::_nestedErrors() - CORE\src\Datasource\EntityTrait.php, line 729
+Cake\ORM\Entity::errors() - CORE\src\Datasource\EntityTrait.php, line 700
+Cake\View\Form\EntityContext::error() - CORE\src\View\Form\EntityContext.php, line 502
+Cake\View\Form\EntityContext::hasError() - CORE\src\View\Form\EntityContext.php, line 487
+Cake\View\Helper\FormHelper::_initInputField() - CORE\src\View\Helper\FormHelper.php, line 2369
+Cake\View\Helper\FormHelper::__call() - CORE\src\View\Helper\FormHelper.php, line 1487
+Cake\View\Helper\FormHelper::text() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::_getInput() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1021
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\ORM\Entity::_nestedErrors() - CORE\src\Datasource\EntityTrait.php, line 729
+Cake\ORM\Entity::errors() - CORE\src\Datasource\EntityTrait.php, line 700
+Cake\View\Form\EntityContext::error() - CORE\src\View\Form\EntityContext.php, line 502
+Cake\View\Form\EntityContext::hasError() - CORE\src\View\Form\EntityContext.php, line 487
+Cake\View\Helper\FormHelper::_initInputField() - CORE\src\View\Helper\FormHelper.php, line 2369
+Cake\View\Helper\FormHelper::__call() - CORE\src\View\Helper\FormHelper.php, line 1487
+Cake\View\Helper\FormHelper::text() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::_getInput() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1021
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Undefined variable: tags in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\ORM\Entity::_nestedErrors() - CORE\src\Datasource\EntityTrait.php, line 729
+Cake\ORM\Entity::errors() - CORE\src\Datasource\EntityTrait.php, line 700
+Cake\View\Form\EntityContext::error() - CORE\src\View\Form\EntityContext.php, line 502
+Cake\View\Form\EntityContext::hasError() - CORE\src\View\Form\EntityContext.php, line 487
+Cake\View\Helper\FormHelper::_initInputField() - CORE\src\View\Helper\FormHelper.php, line 2369
+Cake\View\Helper\FormHelper::__call() - CORE\src\View\Helper\FormHelper.php, line 1487
+Cake\View\Helper\FormHelper::text() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::_getInput() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1021
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:38:25 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\dev\cakephp3\bookmarker\src\Model\Entity\Bookmark.php, line 52]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+App\Model\Entity\Bookmark::App\Model\Entity\{closure}() - APP/Model\Entity\Bookmark.php, line 52
+Cake\Collection\Collection::reduce() - CORE\src\Collection\CollectionTrait.php, line 153
+App\Model\Entity\Bookmark::_getTagString() - APP/Model\Entity\Bookmark.php, line 53
+Cake\ORM\Entity::get() - CORE\src\Datasource\EntityTrait.php, line 283
+Cake\ORM\Entity::_nestedErrors() - CORE\src\Datasource\EntityTrait.php, line 729
+Cake\ORM\Entity::errors() - CORE\src\Datasource\EntityTrait.php, line 700
+Cake\View\Form\EntityContext::error() - CORE\src\View\Form\EntityContext.php, line 502
+Cake\View\Form\EntityContext::hasError() - CORE\src\View\Form\EntityContext.php, line 487
+Cake\View\Helper\FormHelper::_initInputField() - CORE\src\View\Helper\FormHelper.php, line 2369
+Cake\View\Helper\FormHelper::__call() - CORE\src\View\Helper\FormHelper.php, line 1487
+Cake\View\Helper\FormHelper::text() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::_getInput() - CORE\src\View\Helper\FormHelper.php, line 1113
+Cake\View\Helper\FormHelper::input() - CORE\src\View\Helper\FormHelper.php, line 1021
+include - APP/Template\Bookmarks\edit.ctp, line 27
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:40:44 Notice: Notice (8): Undefined variable: users in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\add.ctp, line 16]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\add.ctp, line 16
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-10-31 11:50:24 Notice: Notice (8): Undefined variable: users in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Bookmarks\add.ctp, line 16]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Bookmarks\add.ctp, line 16
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2015-11-07 12:55:20 Notice: Notice (8): Trying to get property of non-object in [C:\wamp\www\dev\cakephp3\bookmarker\src\Template\Users\index.ctp, line 3]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 138
+include - APP/Template\Users\index.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 970
+Cake\View\View::_render() - CORE\src\View\View.php, line 930
+Cake\View\View::render() - CORE\src\View\View.php, line 578
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
