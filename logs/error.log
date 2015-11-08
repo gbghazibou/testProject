@@ -4337,3 +4337,29 @@ Stack Trace:
 #22 {main}
 
 
+2015-11-08 13:03:28 Error: [PDOException] SQLSTATE[HY000] [1044] Access denied for user 'cakephp'@'localhost' to database 'cake_bookmark'
+Request URL: /
+Stack Trace:
+#0 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Database\Driver\PDODriverTrait.php(48): PDO->__construct('mysql:host=loca...', 'cakephp', 'phpcake', Array)
+#1 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Database\Driver\Mysql.php(90): Cake\Database\Driver\Mysql->_connect('mysql:host=loca...', Array)
+#2 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Database\Schema\BaseSchema.php(45): Cake\Database\Driver\Mysql->connect()
+#3 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Database\Dialect\MysqlDialectTrait.php(63): Cake\Database\Schema\BaseSchema->__construct(Object(Cake\Database\Driver\Mysql))
+#4 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(52): Cake\Database\Driver\Mysql->schemaDialect()
+#5 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(43): Cake\Database\Schema\Collection->__construct(Object(Cake\Database\Connection))
+#6 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Database\Connection.php(315): Cake\Database\Schema\CachedCollection->__construct(Object(Cake\Database\Connection), true)
+#7 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\ORM\Table.php(422): Cake\Database\Connection->schemaCollection()
+#8 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\ORM\Query.php(173): Cake\ORM\Table->schema()
+#9 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\ORM\Query.php(131): Cake\ORM\Query->addDefaultTypes(Object(App\Model\Table\BookmarksTable))
+#10 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\ORM\Table.php(1228): Cake\ORM\Query->__construct(Object(Cake\Database\Connection), Object(App\Model\Table\BookmarksTable))
+#11 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\ORM\Table.php(931): Cake\ORM\Table->query()
+#12 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Controller\Component\PaginatorComponent.php(166): Cake\ORM\Table->find('all', Array)
+#13 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Controller\Controller.php(688): Cake\Controller\Component\PaginatorComponent->paginate(Object(App\Model\Table\BookmarksTable), Array)
+#14 C:\wamp\www\dev\testProject\src\Controller\BookmarksController.php(26): Cake\Controller\Controller->paginate(Object(App\Model\Table\BookmarksTable))
+#15 [internal function]: App\Controller\BookmarksController->index()
+#16 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Controller\Controller.php(429): call_user_func_array(Array, Array)
+#17 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(114): Cake\Controller\Controller->invokeAction()
+#18 C:\wamp\www\dev\testProject\vendor\cakephp\cakephp\src\Routing\Dispatcher.php(87): Cake\Routing\Dispatcher->_invoke(Object(App\Controller\BookmarksController))
+#19 C:\wamp\www\dev\testProject\webroot\index.php(37): Cake\Routing\Dispatcher->dispatch(Object(Cake\Network\Request), Object(Cake\Network\Response))
+#20 {main}
+
+

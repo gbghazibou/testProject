@@ -215,9 +215,9 @@ return [
              * the following line and set the port accordingly
              */
             //'port' => 'nonstandard_port_number',
-            'username' => 'cakephp',
-            'password' => 'phpcake',
-            'database' => 'cake_bookmarks',
+            'username' => 'root',
+            'password' => '',
+            'database' => 'cake_bookmark',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
             'cacheMetadata' => true,
