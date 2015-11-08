@@ -29,7 +29,7 @@
 
 
                    <h3><?= h($user->id) ?></h3>
-    <table class="vertical-table">
+    <table class="table table-hover" class="vertical-table">
         <tr>
             <th><?= __('Email') ?></th>
             <td><?= h($user->email) ?></td>
@@ -54,7 +54,7 @@
     <div class="related">
         <h4><?= __('Related Bookmarks') ?></h4>
         <?php if (!empty($user->bookmarks)): ?>
-        <table cellpadding="0" cellspacing="0">
+        <table class="table table-hover" cellpadding="0" cellspacing="0">
             <tr>
                 <th><?= __('Id') ?></th>
                 <th><?= __('User Id') ?></th>
